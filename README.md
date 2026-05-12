@@ -88,11 +88,33 @@ Combined multiple visualizations into one analytical dashboard using Matplotlib.
 
 ---
 
-## 📷 Dashboard Preview
-(Add your dashboard screenshot here)
+## 📷 Dashboard 
 
-Example:
-![Dashboard](dashboard.png)
+
+## 🗄️ SQL Analysis
+In addition to Python-based analysis, SQL queries were used to explore and analyze customer shopping trends. SQL helped perform data extraction, filtering, aggregation, and customer behavior analysis efficiently.
+
+### SQL Operations Performed
+- Data retrieval using `SELECT`
+- Filtering records using `WHERE`
+- Grouping data using `GROUP BY`
+- Sorting results using `ORDER BY`
+- Aggregate functions:
+  - `COUNT()`
+  - `SUM()`
+  - `AVG()`
+  - `MAX()`
+  - `MIN()`
+
+### Sample SQL Analysis
+- Total number of customers
+- Average purchase amount
+- Most purchased categories
+- Customer purchase frequency analysis
+- Gender-based purchase analysis
+- Review rating analysis
+
+SQL analysis enhanced the understanding of customer behavior and supported data-driven insights alongside Python visualizations.
 
 ---
 
