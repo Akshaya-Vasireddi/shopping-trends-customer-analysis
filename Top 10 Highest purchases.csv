@@ -1,0 +1,11 @@
+MyUnknownColumn,"Customer ID",Age,Gender,"Item Purchased",Category,"Purchase Amount (USD)",Location,Color,Season,"Review Rating","Subscription Status","Shipping Type","Discount Applied","Promo Code Used","Previous Purchases","Payment Method","Frequency of Purchases"
+3725,3726,18,Female,Dress,Clothing,100,Oklahoma,Turquoise,Winter,4.4,No,"Next Day Air",No,No,2,PayPal,Annually
+3837,3838,45,Female,Hoodie,Clothing,100,"New Mexico",Green,Spring,4.8,No,"Free Shipping",No,No,33,"Bank Transfer",Fortnightly
+1479,1480,48,Male,Coat,Outerwear,100,Washington,Black,Spring,4,No,Standard,Yes,Yes,2,"Bank Transfer",Weekly
+1300,1301,67,Male,T-shirt,Clothing,100,"West Virginia",Charcoal,Spring,4.5,No,"Next Day Air",Yes,Yes,47,"Credit Card","Every 3 Months"
+518,519,24,Male,Blouse,Clothing,100,Oregon,Beige,Fall,2.9,Yes,"Next Day Air",Yes,Yes,16,Venmo,"Every 3 Months"
+1456,1457,59,Male,Coat,Outerwear,100,Montana,Olive,Spring,2.7,No,"Store Pickup",Yes,Yes,30,PayPal,"Every 3 Months"
+248,249,47,Male,Belt,Accessories,100,Pennsylvania,Blue,Winter,4.8,Yes,Express,Yes,Yes,33,PayPal,Weekly
+243,244,25,Male,Jewelry,Accessories,100,Kentucky,Olive,Winter,2.8,Yes,"2-Day Shipping",Yes,Yes,4,"Debit Card",Monthly
+1208,1209,20,Male,Boots,Footwear,100,Wisconsin,Red,Winter,2.9,No,"2-Day Shipping",Yes,Yes,8,"Debit Card",Annually
+42,43,20,Male,Coat,Outerwear,100,Tennessee,Beige,Spring,4.1,Yes,"Free Shipping",Yes,Yes,15,PayPal,Annually
