@@ -110,5 +110,5 @@ This project demonstrates how data analysis and visualization techniques can hel
 ---
 
 ## 👩‍💻 Author
-### Parvathi Dasari
+### Akshaya Vasireddi
 Python | Data Analysis | Visualization Enthusiast
