@@ -88,7 +88,6 @@ Combined multiple visualizations into one analytical dashboard using Matplotlib.
 
 ---
 
-## 📷 Dashboard 
 
 
 ## 🗄️ SQL Analysis
